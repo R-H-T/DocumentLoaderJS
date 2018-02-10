@@ -30,4 +30,3 @@
 			console.log('Failed to read content', error);
 	});
 })();
-
