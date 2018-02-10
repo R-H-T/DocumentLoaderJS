@@ -18,7 +18,7 @@
 		return response.text();
 	}
 
-	const loadDocument = (path) => fetch(path).then(handleResponse);
+	const loadDocument = (path) => fetch(path, { mode: 'cors' }).then(handleResponse);
 
 	// Append view to document.body
 	document.body.appendChild(view);
