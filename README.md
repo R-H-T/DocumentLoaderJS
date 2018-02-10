@@ -9,3 +9,16 @@ Loads another HTML-file into `index.html` with JavaScript/ES6 (_can also be done
 
 python -m SimpleHTTPServer 8000
 
+The content will be available on [`https://localhost:8000/index.html`](https://localhost:8000/index.html)
+
+---
+
+# License
+**MIT**
+
+---
+
+# Author
+Roberth Hansson-Tornéus ([R-H-T](https://github.com/R-H-T))
+
+© 2018
